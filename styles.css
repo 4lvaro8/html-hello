@@ -18,7 +18,7 @@ body {
 header {
     background-color: black;
     text-align: center;
-    width: 40%;
+    width: 100%;
     border: 2px solid rgba(156, 156, 156, 0.911);
 }
 h1 {
