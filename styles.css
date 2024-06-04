@@ -55,3 +55,7 @@ body {
 .icons i:nth-child(4) {
     float: right;
 }
+
+.bodyP p {
+    padding: 5px;
+}
