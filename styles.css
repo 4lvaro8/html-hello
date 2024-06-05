@@ -1,0 +1,29 @@
+.post {
+    margin: 20px auto;
+    width: 500px;
+    border: 1px;
+    height: auto;
+
+}
+
+.postHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: auto;
+}
+.postImg{
+    width: 500px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.postFooter {
+    padding: 10px;
+    height: auto;
+}
+
